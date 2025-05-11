@@ -1,4 +1,8 @@
-h1 {
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
